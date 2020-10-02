@@ -1,9 +1,8 @@
 package StringIncrementer;
 
-public class StringIncrementer
-{
-    public static void main(String[] args)
-    {
+public class StringIncrementer {
+    public static void main(String[] args) {
+    
        // System.out.println("foobar000 : foobar001");
         System.out.println(Solution.incrementString("foobar000"));
 
@@ -25,4 +24,4 @@ public class StringIncrementer
     }
 
 
-}
+ }
